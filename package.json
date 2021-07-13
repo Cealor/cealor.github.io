@@ -8,10 +8,10 @@
   "main": ".eleventy.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scottdejonge/scottdejonge"
+    "url": "https://github.com/Cealor/cealor"
   },
   "bugs": {
-    "url": "https://github.com/scottdejonge/scottdejonge/issues"
+    "url": "https://github.com/Cealor/cealor/issues"
   },
   "dependencies": {
     "markdown-it-footnote": "^3.0.2"
