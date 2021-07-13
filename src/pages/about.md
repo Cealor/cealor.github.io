@@ -2,8 +2,8 @@
 layout: default
 permalink: /
 title: About
-headline: UI/UX Designer & Accessibility Engineer
-description: "I design and build universally accessible, performant, and responsive web interfaces."
+headline: Hi there!
+description: "I make stuff."
 ---
 
 <figure>
